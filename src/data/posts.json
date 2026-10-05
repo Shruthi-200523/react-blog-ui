@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "title": "Getting Started with React",
+        "description": "React helps us build websites using small and reusable components.",
+        "category": "Technology",
+        "author": "Shruthi"
+    },
+    {
+        "id": 2,
+        "title": "Why Learning AI is Important",
+        "description": "AI is becoming part of many areas of technology, so understanding its basics is useful.",
+        "category": "AI",
+        "author": "Shruthi"
+    },
+    {
+        "id": 3,
+        "title": "Tips for Students Preparing for Placements",
+        "description": "Learning consistently and building projects can help students become more confident during placements.",
+        "category": "Career",
+        "author": "Shruthi"
+    },
+    {
+        "id": 4,
+        "title": "Simple Ways to Improve Your Coding",
+        "description": "Practice small problems regularly and understand the logic instead of only memorizing code.",
+        "category": "Coding",
+        "author": "Shruthi"
+    },
+    {
+        "id": 5,
+        "title": "My Experience Learning Web Development",
+        "description": "Starting with HTML, CSS and JavaScript makes learning React much easier.",
+        "category": "Web Development",
+        "author": "Shruthi"
+    }
+]
